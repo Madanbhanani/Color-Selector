@@ -1,0 +1,41 @@
+#main-container {
+    display: flex;
+    text-align: center;
+    text-align: center;
+    justify-content: space-between;
+}
+
+#main-btnbox {
+    border: 2px solid;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+button {
+    width: 100px;
+    margin: 10px;
+    height: 50px;
+}
+
+#cnt {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 50px;
+    margin: 30px;
+    color: beige;
+    font-size: 28px;
+}
+
+#colorname {
+    text-align: center;
+    width: 122px;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
